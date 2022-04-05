@@ -13,7 +13,7 @@ We have preconfigured the development environment for you to easily make your fi
 If executing this example on Gitpod, run the following command from the terminal if you are not in the `playground-R` directory:
 
 ```bash
-$ cd playground-R
+$ cd workspace/playground-R
 ```
 
 2. Run the code by running the terminal command:
